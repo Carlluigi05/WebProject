@@ -1,0 +1,28 @@
+.title{
+    font-size: 60px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 15px;
+}
+.container {
+    background-color: #E0E0E0;
+    margin-top: 35px;
+    
+}
+.container .student{
+    font-size: 40px;
+    float: left;
+}
+.container .btn{
+    float: right;
+    margin-top: 10px;
+}
+.container h6{
+    text-align: center;
+    color: red;
+}
+#updateButton{
+    margin-bottom: 20px;
+}
